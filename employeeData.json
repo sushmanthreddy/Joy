@@ -1,0 +1,76 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "role": "Employee",
+      "password": "fakepassword1"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "role": "Employee",
+      "password": "fakepassword2"
+    },
+    {
+      "id": 3,
+      "name": "Robert Johnson",
+      "email": "robertjohnson@example.com",
+      "role": "Employee",
+      "password": "fakepassword3"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "role": "Employee",
+      "password": "fakepassword4"
+    },
+    {
+      "id": 5,
+      "name": "Michael Wilson",
+      "email": "michaelwilson@example.com",
+      "role": "Employee",
+      "password": "fakepassword5"
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "name": "Admin 1",
+      "email": "admin1@example.com",
+      "role": "Admin",
+      "password": "fakepassword6"
+    },
+    {
+      "id": 2,
+      "name": "Admin 2",
+      "email": "admin2@example.com",
+      "role": "Admin",
+      "password": "fakepassword7"
+    },
+    {
+      "id": 3,
+      "name": "Admin 3",
+      "email": "admin3@example.com",
+      "role": "Admin",
+      "password": "fakepassword8"
+    },
+    {
+      "id": 4,
+      "name": "Admin 4",
+      "email": "admin4@example.com",
+      "role": "Admin",
+      "password": "fakepassword9"
+    },
+    {
+      "id": 5,
+      "name": "Admin 5",
+      "email": "admin5@example.com",
+      "role": "Admin",
+      "password": "fakepassword10"
+    }
+  ]
+}
